@@ -1,0 +1,5 @@
+change this to your own chrome profile path: chrome_profile_directory = r"C:\Users\user\Documents\all_profiles\Profile 3"
+add your facebook account mail and password on accinfo.csv file
+change your folderpath with your own folder path:     folder_path = r'C:\Users\user\Downloads\changingautopostingbot\pythonProject\videos'  # Replace this with the path of your folder
+
+'''
